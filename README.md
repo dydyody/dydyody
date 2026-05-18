@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FF1493&center=true&vCenter=true&width=600&lines=Welcome+to+my+flawless+repo;My+hair+is+big;It's+full+of+secrets+(and+bugs);Coded+in+PINK;100%25+That+Girl;Fetch+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Welcome+to+my+flawless+repo;My+hair+is+big;It's+full+of+secrets+(and+bugs);Coded+in+PINK;100%25+That+Girl;Fetch+Hacker" alt="Typing SVG" />
 </p>
 
 <p align="center">
