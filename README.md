@@ -20,9 +20,9 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndrZ3g2cHZjdG1oOGJ4d3A1YWh0OHpwY2FpaTV0MnAydW9ydHRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9KVeEPWqBlmDLgFG/giphy.gif" width="400" alt="Mean Girls GIF" style="border-radius: 15px; border: 3px solid #ff69b4;">
 </div>
 
-### 💖 About Me (The Plastics Edition)
+### 💖 About Me 
 
-I'm Vatima Azalia Melody Atmo, better known as **dydyody** ✨. I'm 16 years old and I've dedicated my time to crafting interfaces and ensuring my code is as flawless as my lip gloss. When I'm not coding, I'm probably judging your color palette.
+I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old and I've dedicated my time to crafting interfaces and ensuring my code is as flawless as my lip gloss. When I'm not coding, I'm probably judging your color palette.
 
 - 🎓 16 Years Old & Thriving
 - 🏫 Currently focused on making my code **aesthetic and functional**
@@ -85,7 +85,7 @@ I'm Vatima Azalia Melody Atmo, better known as **dydyody** ✨. I'm 16 years old
 <h2 align="center"> 📬 Connect with me </h2>
 <div align="center">
   <a href="mailto:vatimaazalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffb6c1" /></a>
-  <a href="https://instagram.com/dydyody"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ff69b4" /></a>
+  <a href="https://instagram.com/dydyody_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=ff69b4" /></a>
 </div>
   
 <p align="center">
