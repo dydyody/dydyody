@@ -39,23 +39,23 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
   <img src="https://emojis.slackmojis.com/emojis/images/1583023249/8086/sparkling-pink-heart.gif" width="25">
 </h2>
 
-<div align="center">
-  <h3> Building Blocks </h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=ff69b4" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=ff69b4" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=ff69b4" />
+ <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
+  <div align="center">
+    
+  <h3> Programming Languages </h3>
+    <img src="https://skillicons.dev/icons?i=cs,java,kotlin,php,js" />
 
-  <h3> Styling & Frameworks </h3>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&color=ff1493" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=ff1493" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&color=ff1493" />
+  <h3> Frameworks & Databases </h3>
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,mysql,sqlite" />
 
-  <h3> Tools & Platforms </h3> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=fcaecb" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=fcaecb" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=fcaecb" />
+  <h3> Query & Special Skills </h3>
+    <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+   <h3> Tools </h3> 
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,androidstudio,git,postman,figma" />
+
 </div>
-
 ---
 
 <h2 align="center"> 📊 My Stats </h2>
