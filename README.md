@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFC0CB,FF69B4,FFC0CB,FF69B4,FFC0CB&height=250&section=header&text=Vatima%20Azalia&fontSize=60&animation=fadeIn&fontAlignY=35&fontAlign=80" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=dydyody&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
