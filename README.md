@@ -33,7 +33,7 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
 
 ---
 
- <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
+ <h2 align="center">💖 Tech Stacks 💖</h2>
   <div align="center">
     
   <h3> Programming Languages </h3>
@@ -65,17 +65,6 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
 
 ---
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dydyody/dydyody/output/github-contribution-grid-snake-pink.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dydyody/dydyody/output/github-contribution-grid-snake-pink.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dydyody/dydyody/output/github-contribution-grid-snake-pink.svg" style="border: 2px solid #ff69b4; border-radius: 10px; padding: 10px; background-color: #fff0f5;" />
-  </picture>
-</div>
-
----
-
 <h2 align="center"> 📬 Connect with me </h2>
 <div align="center">
   <a href="mailto:vatimaazalia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ffb6c1" /></a>
@@ -83,5 +72,5 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
 </div>
   
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4,FFC0CB,FF69B4,FFC0CB,FF69B4,FFC0CB&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
