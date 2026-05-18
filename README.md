@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=dydyody&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=ff69b4,ff00ff,ffb6c1&height=250&section=header&text=dydyody&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=600&lines=Welcome+to+my+flawless+repo;My+hair+is+big;It's+full+of+secrets+(and+bugs);Coded+in+PINK;100%25+That+Girl;Fetch+Hacker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Welcome+to+my+flawless+repo;My+hair+is+shining;I+Love+PINK;100%25+That+Girl;As+If" alt="Typing SVG" />
 </p>
 
 <p align="center">
