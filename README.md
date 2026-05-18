@@ -11,16 +11,14 @@
   
   <a href="https://github.com/dydyody?tab=followers">
   <img 
-    src="https://img.shields.io/github/followers/Chizuyu?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&cacheSeconds=60" 
+    src="https://img.shields.io/github/followers/dydyody?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&cacheSeconds=60" 
     alt="GitHub followers" />
   </a>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndrZ3g2cHZjdG1oOGJ4d3A1YWh0OHpwY2FpaTV0MnAydW9ydHRiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9KVeEPWqBlmDLgFG/giphy.gif" width="400" alt="Mean Girls GIF" style="border-radius: 15px; border: 3px solid #ff69b4;">
-</div>
+
 
 ### 💖 About Me 
 
