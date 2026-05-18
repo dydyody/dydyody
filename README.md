@@ -57,11 +57,6 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dydyody&theme=radical&mode=daily&date_format=M%20j%5B%2C%20Y%5D&background=fff0f5&color=fff0f5&ring=ff69b4&fire=ff1493&currStreakNum=ff1493&currStreakLabel=ff1493&sideNums=ff69b4&sideLabels=ff69b4&dates=000000" width="70%" alt="dydyody's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dydyody&theme=buefy&title_color=ff1493&icon_color=ff69b4&text_color=000000&bg_color=fff0f5&border_color=ffb6c1" alt="Top Languages" width="35%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dydyody&theme=buefy&show_icons=true&title_color=ff1493&icon_color=ff69b4&text_color=000000&bg_color=fff0f5&border_color=ffb6c1" alt="GitHub Stats" width="55%" />
-</p>
-
 ---
 
 <h2 align="center"> 📬 Connect with me </h2>
