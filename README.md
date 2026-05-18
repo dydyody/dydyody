@@ -33,12 +33,6 @@ I'm Vatima Azalia Melody Atmo, better known as **Melody** ✨. I'm 16 years old 
 
 ---
 
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1583023249/8086/sparkling-pink-heart.gif" width="25"> 
-  Tech Stacks 
-  <img src="https://emojis.slackmojis.com/emojis/images/1583023249/8086/sparkling-pink-heart.gif" width="25">
-</h2>
-
  <h2 align="center">⚒️ Tech Stacks ⚒️</h2>
   <div align="center">
     
