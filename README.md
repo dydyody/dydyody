@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=dydyody&label=Profile%20Views&color=ff1493&style=for-the-badge&logoColor=white" alt="dydyody" />
   
   <a href="https://github.com/dydyody?tab=followers">
-    <img src="https://img.shields.io/github/followers/dydyody?style=for-the-badge&labelColor=ffb6c1&color=ff69b4&logoColor=fff" alt="followers" />
+  <img 
+    src="https://img.shields.io/github/followers/Chizuyu?style=for-the-badge&labelColor=1e1e2e&color=89b4fa&cacheSeconds=60" 
+    alt="GitHub followers" />
   </a>
 </p>
 
